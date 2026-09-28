@@ -24,6 +24,3 @@ Python, SpeechRecognition, pyttsx3, Google Gemini API, python-dotenv
 - Fixed the voice engine going silent in a loop by re-creating it on each reply
 - Added retry logic for when the Gemini API is busy
 - Added a wake word so it ignores background noise
-
-## Demo
-(Demo video link coming soon)
